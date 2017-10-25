@@ -2,6 +2,6 @@
 
 
 ### CS-AP
-Click [here](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png).
+Click [here](https://terobero.github.io/csap.md).
 
 ### Projects
