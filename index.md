@@ -24,4 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Imagezszsd](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+![Image](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
