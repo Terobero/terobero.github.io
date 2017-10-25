@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+[Link](url) and ![Image](src)
 ```
 
 ![Image](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
