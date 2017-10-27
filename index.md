@@ -6,3 +6,4 @@
 Click [here](https://terobero.github.io/terobero.github.io/csap.md).
 
 ### Projects
+Click [here](https://terobero.github.io/terobero.github.io/projects.md).
