@@ -1,3 +1,5 @@
+title: Kaan Bozkurt's Project Page
+
 ## Welcome to Kaan's Github Page!
 
 
