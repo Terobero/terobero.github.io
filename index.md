@@ -9,6 +9,6 @@ This page is my AP CS A project page.
 Tetris is my first project. I used JavaFX for this game. You can view the code [here](https://github.com/Terobero/AP_CS_A/tree/master/Tetris).
 
 
-Here is a video of it:
+Here is a video of it (Click on it to watch the video):
 
-<iframe width="560" height="420" src="http://www.youtube.com/embed/d8A6KlfF82wcolor=white&theme=light"></iframe>
+[![Tetris](https://img.youtube.com/vi/d8A6KlfF82w/0.jpg)](https://www.youtube.com/watch?v=d8A6KlfF82w)
