@@ -11,4 +11,4 @@ Tetris is my first project. I used JavaFX for this game. You can view the code [
 
 Here is a video of it (Click on it to watch the video):
 
-[![Tetris](https://img.youtube.com/vi/d8A6KlfF82w/0.jpg)](https://www.youtube.com/watch?v=d8A6KlfF82w)
+[![Tetris](https://img.youtube.com/vi/XetyTKNvj9Y/0.jpg)](https://www.youtube.com/watch?v=XetyTKNvj9Y)
